@@ -1,3 +1,5 @@
+![blurred](https://github.com/user-attachments/assets/5c058ead-20e5-4a7f-9b42-47e95bc3c2c1)
+
 # Face-Anonymizer
 Real-time face detection and anonymization system using OpenCV DNN. This project captures webcam video, detects faces using a pre-trained deep learning model, and applies pixelation to blur faces dynamically for privacy protection.
 
