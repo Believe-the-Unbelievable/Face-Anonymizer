@@ -18,6 +18,9 @@ python main.py
 # 4. What happens
 
 Webcam opens
+
 Faces get detected
+
 Faces are pixelated in real-time
+
 Press 'q' to exit
